@@ -4,6 +4,9 @@
 ### 网址大全
 - [识典古籍](https://www.shidianguji.com)
 
+### 名人录
+- [戴尔·卡耐基](https://en.wikipedia.org/wiki/Dale_Carnegie)
+
 ### 读书笔记
 
 - [影响力](book/influence.md)
