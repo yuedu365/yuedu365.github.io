@@ -12,7 +12,7 @@
 |:-------------|:---------|:--------|:--------------------------------------------|
 | 奇特的一生        | (俄)格拉宁   | 候焕闳 唐其慈 | [PDF](https://www.alipan.com/s/3CqhSQu8Jrd) |
 | 搞定 I：无压工作的艺术 | (美)戴维·艾伦 | 张静      | [PDF](https://www.alipan.com/s/Gvy9KECstdf) |                                  
-|
+| 断舍离          | (日)山下英子  | 吴倩      | [PDF](https://www.alipan.com/s/mgTEhS9ce1t) |
 
 ### 名人录
 
