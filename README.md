@@ -14,7 +14,7 @@
 | 搞定 I：无压工作的艺术 | (美)戴维·艾伦 | 张静      | [PDF](https://www.alipan.com/s/Gvy9KECstdf) |                                  
 | 断舍离          | (日)山下英子  | 吴倩      | [PDF](https://www.alipan.com/s/mgTEhS9ce1t) |
 
-- [解析极限编程：拥抱变化](book/extreme-programming-explained/解析极限编程.md)
+- [解析极限编程：拥抱变化](book/解析极限编程.md)
 
 ### 名人录
 
