@@ -15,6 +15,7 @@
 | 断舍离          | (日)山下英子  | 吴倩      | [PDF](https://www.alipan.com/s/mgTEhS9ce1t) |
 
 - [解析极限编程：拥抱变化](book/extreme-programming-explained/解析极限编程.md)
+- [强风吹拂](book/run-with-the-wind/index.md)
 
 ### 名人录
 
