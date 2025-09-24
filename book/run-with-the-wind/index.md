@@ -1,7 +1,7 @@
 ## 强风吹拂
 
 - [序章](prologue.md)
-- [第一章 朱青庄的房客](chapter1.md)
+- [第一章 竹青庄的房客](chapter1.md)
 - [第二章 天下第一险峰——箱根山](chapter2.md)
 - [第三章 开始练习吧！](chapter3.md)
 - [第四章 纪录赛登场](chapter4.md)
