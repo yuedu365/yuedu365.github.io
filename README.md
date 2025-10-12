@@ -6,61 +6,10 @@
 
 - [识典古籍](https://www.shidianguji.com)
 
-### 电子书
-
-| 书名           | 作者       | 译者      | 下载链接                                        |
-|:-------------|:---------|:--------|:--------------------------------------------|
-| 奇特的一生        | (俄)格拉宁   | 候焕闳 唐其慈 | [PDF](https://www.alipan.com/s/3CqhSQu8Jrd) |
-| 搞定 I：无压工作的艺术 | (美)戴维·艾伦 | 张静      | [PDF](https://www.alipan.com/s/Gvy9KECstdf) |                                  
-| 断舍离          | (日)山下英子  | 吴倩      | [PDF](https://www.alipan.com/s/mgTEhS9ce1t) |
+### BOOKS
 
 - [解析极限编程：拥抱变化](book/extreme-programming-explained/解析极限编程.md)
 - [强风吹拂](book/run-with-the-wind/index.md)
-
-### 名人录
-
-- [戴尔·卡耐基](https://en.wikipedia.org/wiki/Dale_Carnegie)
-- [温斯顿·丘吉尔](https://en.wikipedia.org/wiki/Winston_Churchill)
-- 亚里士多德
-
-- 窦文涛
-- 富兰克林
-- 巴尔扎克
-- 阿德勒：奥地利心理学家
-- 亚伯拉罕·林肯：美国总统
-- 毛泽东
-- 刘向：西汉人，著有《说苑》等
-- 爱因斯坦
-- 庄子：
-- 鲁迅（周树人）
-- 闻一多
-- 肯尼迪
-- 李大钊
-- 杨万里
-- 列宁
-- 李白
-- 余光中
-- 马丁·路德·金：我有一个梦想
-- 曹雪芹
-- 李鸿章
-- 张居正
-- 王勃
-- 拿破仑
-- 罗斯福
-- 戴高乐：法国总统
-- 马克斯
-- 恩格斯
-- 黑格尔：德国古典哲学家
-- 达·芬奇
-- 达尔文
-- 孟子
-- 尼克松
-- 白居易
-- 王潜：作家
-- 曾国藩
-- 莫泊桑
-- 奥威尔：《1984》
-- 艾伦·索金：《白宫风云（The West Wing）》
-- 马克·吐温
-
-### 读书笔记
+- [断舍离](https://www.alipan.com/s/mgTEhS9ce1t)
+- [搞定 I：无压工作的艺术](https://www.alipan.com/s/Gvy9KECstdf)
+- [奇特的一生](https://www.alipan.com/s/3CqhSQu8Jrd)
