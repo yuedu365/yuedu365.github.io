@@ -8,8 +8,19 @@
 
 ### BOOKS
 
-- [解析极限编程：拥抱变化](book/extreme-programming-explained/解析极限编程.md)
-- [强风吹拂](book/run-with-the-wind/index.md)
+#### 哲学
+
 - [断舍离](https://www.alipan.com/s/mgTEhS9ce1t)
+
+#### 效率
+
 - [搞定 I：无压工作的艺术](https://www.alipan.com/s/Gvy9KECstdf)
 - [奇特的一生](https://www.alipan.com/s/3CqhSQu8Jrd)
+
+#### 技术
+
+- [解析极限编程：拥抱变化](book/extreme-programming-explained/解析极限编程.md)
+
+#### 热血
+
+- [强风吹拂](book/run-with-the-wind/index.md)
